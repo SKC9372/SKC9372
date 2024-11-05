@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Suryakant Amresh Chaubey
-- 👀 I’m interested in Data Scientist field 
+- 👀 I’m  a Data Scientist 
 - 💞️ I’m looking to collaborate on various business problems and integrate AI to help come with solutions
 - 📫 You can reach me through my gmail: suryakantchaubey2001@gmail.com , [LinkedIn](https://www.linkedin.com/in/suryakant-chaubey/)
 
